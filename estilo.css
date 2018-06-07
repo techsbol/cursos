@@ -1,0 +1,5 @@
+img:hover{
+	-webkit-transform:scale(1.12,1.12);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration:100ms;
+}
